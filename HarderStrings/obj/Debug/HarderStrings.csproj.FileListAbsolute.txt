@@ -1,0 +1,7 @@
+D:\DomashnaRabota\HarderStrings\HarderStrings\obj\Debug\HarderStrings.csproj.AssemblyReference.cache
+D:\DomashnaRabota\HarderStrings\HarderStrings\obj\Debug\HarderStrings.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\HarderStrings\HarderStrings\bin\Debug\HarderStrings.exe.config
+D:\DomashnaRabota\HarderStrings\HarderStrings\bin\Debug\HarderStrings.exe
+D:\DomashnaRabota\HarderStrings\HarderStrings\bin\Debug\HarderStrings.pdb
+D:\DomashnaRabota\HarderStrings\HarderStrings\obj\Debug\HarderStrings.exe
+D:\DomashnaRabota\HarderStrings\HarderStrings\obj\Debug\HarderStrings.pdb

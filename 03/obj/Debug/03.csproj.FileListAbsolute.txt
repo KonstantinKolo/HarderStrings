@@ -1,0 +1,7 @@
+D:\DomashnaRabota\HarderStrings\03\bin\Debug\03.exe.config
+D:\DomashnaRabota\HarderStrings\03\bin\Debug\03.exe
+D:\DomashnaRabota\HarderStrings\03\bin\Debug\03.pdb
+D:\DomashnaRabota\HarderStrings\03\obj\Debug\03.csproj.AssemblyReference.cache
+D:\DomashnaRabota\HarderStrings\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\HarderStrings\03\obj\Debug\03.exe
+D:\DomashnaRabota\HarderStrings\03\obj\Debug\03.pdb
